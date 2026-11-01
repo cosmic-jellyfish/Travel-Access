@@ -1,0 +1,7 @@
+data/Config.json
+data/State.json
+data/TravelSchedule.csv
+data/Logs/
+data/*.cer
+*.pfx
+*.tmp
